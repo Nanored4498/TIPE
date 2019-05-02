@@ -12,5 +12,5 @@ make train
 # To test networks on the envelope pictures
 make test
 # To generate the doc
-male doc
+make doc
 ```
